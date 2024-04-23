@@ -35,6 +35,6 @@ body{
     justify-content: center;
     align-items: center;
     margin: auto;
-    border: white 8px dotted;
+    border: rgb(236, 235, 235) 8px dotted;
     font-size: 20px;
 }
